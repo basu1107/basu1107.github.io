@@ -454,9 +454,9 @@ ninja.data = [{
           section: "News",},{id: "news-started-postdoctoral-position-at-cral-observatoire-de-lyon",
           title: 'Started Postdoctoral position at CRAL, Observatoire de Lyon.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-variability-of-the-uv-luminosity-function-with-spice",
+          title: 'Variability of the UV Luminosity Function with SPICE',
+          description: "Exploring bursty star formation and UVLF scatter in JWST-era galaxies.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
